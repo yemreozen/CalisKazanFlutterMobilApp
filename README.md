@@ -6,7 +6,8 @@ Ana Sayfa görünümü:
 Çalışmaya Başla sayfası:
 ![image](https://user-images.githubusercontent.com/102474125/172833043-5f0b6933-c081-4a61-950f-2d627ba85124.png)
 Mağaza içi:
-![image](https://user-images.githubusercontent.com/102474125/172833111-680c51cd-72a1-4f17-89c5-cd1a450a4b18.png)
+![image](https://user-images.githubusercontent.com/102474125/172833111-680c51cd-72a1-4f17-89c5-cd1a450a4b18.png) ![image](https://user-images.githubusercontent.com/102474125/172834455-43988ecb-dd03-48a8-8993-1cb98c1db0b6.png)
+
 Mağaza içindeki kategorilerden elektronik kategorisinin detayları:
 ![7](https://user-images.githubusercontent.com/102474125/172833319-fb05518c-aa36-4265-89fa-53d53defc102.jpeg)
 Ürünlerin bazı detay sayfaları:
