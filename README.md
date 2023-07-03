@@ -2,6 +2,11 @@ Bu uygulama Android Studio ile Flutter ve dart programlama dili kullanılarak ya
 
 Projenin mağaza kısmı database ile (Sqlite) çalışmaktadır. Projenin tasarımsal kısmı ve database kısmı mevcuttur. Aşağıdaki görsellerden inceleyebilirsiniz.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+This application is developed using Flutter and the Dart programming language in Android Studio. Although not all options are functional, the project's purpose is to allow users to start working by clicking on the "Get Started" button. They start working for the duration they set, and at the end of each set duration, points are added to their accounts. With these points, they can make purchases from the store.
+
+The store section of the project works with a database (SQLite). The project includes both the design aspect and the database component. You can review the images below for more details.
 
 
 
